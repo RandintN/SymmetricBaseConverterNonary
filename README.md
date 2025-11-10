@@ -104,7 +104,9 @@ Since `9 = 3²`, group trits in pairs (right to left) and map each pair to a non
 - Libraries: Tailwind CSS (CDN), KaTeX (CDN), Google Fonts (Inter).
 
 ### License
-Not specified in this repository.
+MIT LICENSE Robson Cassiano
+
+Live Long and Prosper 🖖🏻
 
 ---
 
@@ -216,3 +218,4 @@ Como `9 = 3²`, agrupamos trits de 2 em 2 (da direita para a esquerda) e mapeamo
 
 ### Licença
 MIT LICENSE
+Vida Longa e Próspera 🖖🏻
