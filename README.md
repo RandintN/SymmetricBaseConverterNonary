@@ -8,7 +8,7 @@ A simple web app to convert between:
 The conversion is straightforward because `9 = 3²`: every pair of trits (two digits in balanced base 3) maps exactly to one digit in symmetric base 9. It is analogous to grouping 4 bits into one hexadecimal digit (`2⁴ = 16`).
 
 #### Demo
-Live Demo at: https://randintn.github.io/SymmetricBaseConverterNonary/?lang=en
+Live Demo at: https://tryquetra.github.io/symmetric-base-three-to-nonary-converter/?lang=en
 
 Open `index.html` in any modern browser. No local dependencies: styling is via Tailwind CDN, and explanatory content uses KaTeX (CDN) for formulas.
 
@@ -121,7 +121,7 @@ A conversão é direta porque `9 = 3²`: cada par de trits (2 dígitos em base 3
 
 #### Demonstração
 
-Aqui: https://randintn.github.io/SymmetricBaseConverterNonary/?lang=pt
+Aqui: https://tryquetra.github.io/symmetric-base-three-to-nonary-converter/?lang=pt
 
 Abra o arquivo `index.html` em um navegador moderno. Não há dependências locais: todo o estilo é via Tailwind CDN e o conteúdo explicativo usa KaTeX (CDN) para fórmulas.
 
